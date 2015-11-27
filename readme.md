@@ -1,3 +1,2 @@
-# Authentication With Laravel 4 Source Code
+# Aplicacion de Ecommerce en Laravel 4
 
-The source code for the Nettuts+ article, Authentication With Laravel 4 by Andrew Perkins.
